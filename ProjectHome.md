@@ -1,0 +1,3 @@
+Nav is a lightweight solution for Emacs users who want something like TextMate's file browser, or the Eclipse project view. Unlike these two, Nav only shows the contents of a single directory at a time. Nav can be run painlessly in terminals, where Speedbar either fails on its attempt to make a new frame or is hidden. Nav's terminal-friendliness comes from running in the frame where it was started, keeping window management simple. The Nav key bindings are also simple -- each key command is a single keystroke long.
+
+![http://emacs-nav.googlecode.com/files/emacs_nav_screenshot_7_sm.jpg](http://emacs-nav.googlecode.com/files/emacs_nav_screenshot_7_sm.jpg)
